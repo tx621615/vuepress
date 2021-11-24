@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>icon/向下</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="020📱基本组件集合" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01颜色、icon、按钮、提示" transform="translate(-2316.000000, -262.000000)">
+            <rect fill="#F2F2F2" x="0" y="0" width="2800" height="2775"></rect>
+            <g id="icon" transform="translate(1400.000000, 101.000000)">
+                <rect id="bg" stroke="#EDEDED" fill="#FFFFFF" x="0.5" y="0.5" width="1203" height="849" rx="5"></rect>
+                <g id="icon/向下" transform="translate(916.000000, 161.000000)" fill="#108EE9">
+                    <g id="Group" transform="translate(6.000000, 10.000000)">
+                        <rect id="Rectangle" transform="translate(4.895355, 4.895355) rotate(45.000000) translate(-4.895355, -4.895355) " x="-1.25849151" y="4.12612387" width="12.3076923" height="1.53846154" rx="0.769230769"></rect>
+                        <rect id="Rectangle-Copy" transform="translate(12.587662, 4.895355) scale(1, -1) rotate(45.000000) translate(-12.587662, -4.895355) " x="6.43381618" y="4.12612387" width="12.3076923" height="1.53846154" rx="0.769230769"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
